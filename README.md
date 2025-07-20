@@ -1,1 +1,2 @@
-LAB 1
+LAB1
+LAB2
